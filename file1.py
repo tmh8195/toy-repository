@@ -4,6 +4,7 @@
 
 def dance(move):
     print("look at me do the {}".format(move))
+    print("Your Turn!")
 
 
 def main():
