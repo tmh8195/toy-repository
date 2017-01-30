@@ -1,6 +1,5 @@
 #This is file1
 
-
 def add_staging():
     print('I am adding a staging table')
 
