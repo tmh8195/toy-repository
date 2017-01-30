@@ -13,6 +13,7 @@ def karokee(song):
 
 def dance(move):
     print("look at me do the {}".format(move))
+    print("Ooo look at me!")
     print("I'm still shaking!")
     print("Your Turn!")
 
