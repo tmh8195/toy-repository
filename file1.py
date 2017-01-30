@@ -1,4 +1,6 @@
 #This is file1
+def tell_joke():
+    print('donald trump')
 
 def add_staging():
     print('I am adding a staging table')
@@ -17,7 +19,7 @@ def main():
     dance("Shuffle")
     karokee('Hello good bye')
     add_staging()
-
+    tell_joke()
 
 if __name__ == '__main__':
     main()
