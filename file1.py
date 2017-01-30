@@ -1,5 +1,8 @@
 #This is file1
 
+def add_ppr_feature():
+    print("Pat's feature is featuring along")
+
 def add_staging():
     print('I am adding a staging table')
 
@@ -17,6 +20,7 @@ def main():
     dance("Shuffle")
     karokee('Hello good bye')
     add_staging()
+    add_ppr_feature()
 
 
 if __name__ == '__main__':
