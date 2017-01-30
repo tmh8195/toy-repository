@@ -1,4 +1,6 @@
 #This is file1
+def tell_joke():
+    print('donald trump')
 
 def add_ppr_feature():
     print("Pat's feature is featuring along")
@@ -20,7 +22,11 @@ def main():
     dance("Shuffle")
     karokee('Hello good bye')
     add_staging()
+<<<<<<< HEAD
     add_ppr_feature()
+
+
+    tell_joke()
 
 
 if __name__ == '__main__':
