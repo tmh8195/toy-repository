@@ -1,6 +1,7 @@
 #This is file1
-def include_staging():
-    print('This is a different staging table')
+
+def add_staging():
+    print('I am adding a staging table')
 
 def karokee(song):
     print("I am singing")
@@ -15,7 +16,7 @@ def main():
     print('Data Science is awesome')
     dance("Shuffle")
     karokee('Hello good bye')
-    include_staging()
+    add_staging()
 
 
 if __name__ == '__main__':
