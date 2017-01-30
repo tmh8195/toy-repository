@@ -17,6 +17,7 @@ def main():
     dance("Shuffle")
     karokee('Hello good bye')
     add_staging()
+    print("Tim Rules")
 
 
 if __name__ == '__main__':
