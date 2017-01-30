@@ -1,5 +1,7 @@
 #This is file1
 
+def sing():
+    print('This is different song')
 
 
 def dance(move):
@@ -11,6 +13,7 @@ def dance(move):
 def main():
     print('Data Science is awesome')
     dance("Shuffle")
+    sing()
 
 
 
