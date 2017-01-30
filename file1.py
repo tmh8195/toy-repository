@@ -23,7 +23,6 @@ def main():
     dance("Shuffle")
     karokee('Hello good bye')
     add_staging()
-<<<<<<< HEAD
     add_ppr_feature()
 
 
